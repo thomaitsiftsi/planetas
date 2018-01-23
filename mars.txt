@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Local edit Cold and dry, but everything is my favourite colour
+=======
+Local remote edit Cold and dry, but everything is my favourite colour
+>>>>>>> 9ad05d4a672ff9b727d7a8fe5d4d56286e0021dc
 The two beautiful moons may be a problem for woolfman
 But the Mummy will appreciate the lack of humidity 
 Consider Venus as a base
